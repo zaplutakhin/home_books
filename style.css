@@ -1,0 +1,42 @@
+
+  body
+  {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .wrap {
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+  
+  table {
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 100%;
+  }
+  
+  td, tr {
+    padding: 10px;
+    border: 1px solid black;
+  }
+   
+  form > input {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .form {
+    margin: 20px auto;
+    display: table;
+  }
+  ul>li {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+  }
